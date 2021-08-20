@@ -1,0 +1,23 @@
+footer{
+    margin-top: 100px;
+    padding-bottom: 30px;
+    color: #fff;
+    background: #333;
+}
+h1{
+    text-align: center;
+    padding: 40px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 1.3rem;
+}
+
+.fab{
+    color: #fff;
+}
+.fa-twitter-square:before {
+    margin-left: 20px;
+}
