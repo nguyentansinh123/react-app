@@ -1,0 +1,31 @@
+.form-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+}
+input{
+    height: 50px;
+    width: 250px;
+    border-radius: 14px;
+    border: 1px solid gray;
+    outline: none;
+}
+.btn{
+    padding: 10px;
+    border-radius: 14px;
+    border: 1px solid gray;
+    background: rgb(127, 200, 248);
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+}
+.btn:hover{
+   background: orange;
+   cursor: pointer;
+   
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
