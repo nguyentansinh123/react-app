@@ -1,0 +1,20 @@
+.filter-container{
+    margin-top: 60px;
+    margin-left: 30px;
+    display: grid;
+    grid-template-columns: auto;
+}
+.filter-button{
+    background: rgb(224, 223, 223);
+    border: rgb(196, 194, 194);
+    margin-bottom: 15px;
+    font-size: 1.4rem;
+    color: #333;
+    border-radius: 14px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.filter-button:hover{
+    cursor: pointer;
+    
+}
